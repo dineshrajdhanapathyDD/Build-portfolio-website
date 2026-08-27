@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Run Tests After Task",
+      "trigger": "PostTaskExec",
+      "description": "Runs npm run test after a spec task completes",
+      "action": {
+        "type": "command",
+        "command": "npm run test"
+      }
+    }
+  ]
+}

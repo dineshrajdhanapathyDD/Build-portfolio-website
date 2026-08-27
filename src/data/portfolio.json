@@ -1,0 +1,218 @@
+{
+  "personal": {
+    "name": "Your Name",
+    "title": "Full Stack Developer",
+    "introduction": "I build modern, scalable web applications with a passion for clean code and great user experiences. Turning complex problems into elegant solutions is what drives me every day.",
+    "about": "I'm a full-stack developer with over 5 years of experience building web applications and cloud-native solutions. I specialize in React, Node.js, and AWS, and I'm passionate about creating performant, accessible, and visually appealing digital experiences. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing knowledge through tech talks and blog posts.",
+    "image": "",
+    "location": "San Francisco, CA",
+    "email": "hello@example.com",
+    "availability": "Open to opportunities",
+    "stats": [
+      { "label": "Years Experience", "value": "5+" },
+      { "label": "Projects Completed", "value": "30+" },
+      { "label": "Technologies", "value": "20+" },
+      { "label": "Certifications", "value": "5" }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        { "name": "React" },
+        { "name": "TypeScript" },
+        { "name": "Next.js" },
+        { "name": "Tailwind CSS" },
+        { "name": "HTML5 / CSS3" },
+        { "name": "Redux" }
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        { "name": "Node.js" },
+        { "name": "Python" },
+        { "name": "Express.js" },
+        { "name": "PostgreSQL" },
+        { "name": "MongoDB" },
+        { "name": "GraphQL" }
+      ]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "items": [
+        { "name": "AWS" },
+        { "name": "Docker" },
+        { "name": "Kubernetes" },
+        { "name": "CI/CD" },
+        { "name": "Terraform" },
+        { "name": "GitHub Actions" }
+      ]
+    },
+    {
+      "category": "Tools & Practices",
+      "items": [
+        { "name": "Git" },
+        { "name": "Agile / Scrum" },
+        { "name": "REST APIs" },
+        { "name": "Testing (Jest)" },
+        { "name": "Figma" },
+        { "name": "Linux" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "name": "E-Commerce Platform",
+      "description": "A full-featured e-commerce platform with real-time inventory management, secure payment processing, and an intuitive admin dashboard.",
+      "image": "",
+      "technologies": ["React", "Node.js", "PostgreSQL", "Stripe", "AWS"],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "features": [
+        "Real-time inventory tracking",
+        "Secure payment with Stripe",
+        "Admin dashboard with analytics",
+        "Responsive design"
+      ]
+    },
+    {
+      "id": "project-2",
+      "name": "Task Management App",
+      "description": "A collaborative task management application with real-time updates, drag-and-drop boards, and team workspace functionality.",
+      "image": "",
+      "technologies": ["Next.js", "TypeScript", "MongoDB", "Socket.io", "Tailwind CSS"],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "features": [
+        "Real-time collaboration",
+        "Drag-and-drop Kanban boards",
+        "Team workspaces",
+        "Activity tracking"
+      ]
+    },
+    {
+      "id": "project-3",
+      "name": "AI Content Generator",
+      "description": "An AI-powered content generation tool that helps writers create blog posts, social media content, and marketing copy using GPT models.",
+      "image": "",
+      "technologies": ["Python", "FastAPI", "React", "OpenAI API", "Redis"],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "features": [
+        "Multiple content types",
+        "Tone and style customization",
+        "Content history and versioning",
+        "API rate limiting"
+      ]
+    },
+    {
+      "id": "project-4",
+      "name": "DevOps Dashboard",
+      "description": "A monitoring and observability dashboard that aggregates metrics from multiple cloud services and provides real-time alerts.",
+      "image": "",
+      "technologies": ["React", "D3.js", "Go", "Prometheus", "Docker"],
+      "githubUrl": "https://github.com",
+      "liveUrl": "https://example.com",
+      "features": [
+        "Multi-cloud monitoring",
+        "Custom alert rules",
+        "Interactive visualizations",
+        "Incident management"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tech Solutions Inc.",
+      "role": "Senior Full Stack Developer",
+      "duration": "Jan 2022 — Present",
+      "description": "Leading development of cloud-native applications and mentoring junior developers in a fast-paced agile environment.",
+      "achievements": [
+        "Architected and delivered a microservices platform serving 100K+ users",
+        "Reduced deployment time by 60% through CI/CD pipeline optimization",
+        "Mentored a team of 4 junior developers",
+        "Implemented automated testing achieving 90% code coverage"
+      ]
+    },
+    {
+      "company": "Digital Agency Co.",
+      "role": "Full Stack Developer",
+      "duration": "Jun 2019 — Dec 2021",
+      "description": "Built responsive web applications for diverse clients across fintech, healthcare, and e-commerce industries.",
+      "achievements": [
+        "Delivered 15+ client projects on time and within budget",
+        "Built a reusable component library reducing development time by 40%",
+        "Improved application performance by 50% through optimization",
+        "Introduced automated testing practices to the team"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Technology",
+      "degree": "Bachelor of Science in Computer Science",
+      "duration": "2015 — 2019",
+      "description": "Focused on software engineering, algorithms, and distributed systems. Graduated with honors."
+    },
+    {
+      "institution": "Online Academy",
+      "degree": "Full Stack Web Development Bootcamp",
+      "duration": "2019",
+      "description": "Intensive 12-week program covering modern web development technologies and best practices."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Solutions Architect Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "credentialUrl": "https://aws.amazon.com/certification/"
+    },
+    {
+      "name": "Google Cloud Professional Developer",
+      "issuer": "Google Cloud",
+      "date": "2022",
+      "credentialUrl": "https://cloud.google.com/certification"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "Cloud Native Computing Foundation",
+      "date": "2022",
+      "credentialUrl": "https://www.cncf.io/certification/cka/"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Hackathon Winner — CloudHacks 2023",
+      "description": "Won first place at CloudHacks 2023 for building an AI-powered accessibility tool that automatically generates alt text for images."
+    },
+    {
+      "title": "Open Source Contributor — 500+ GitHub Stars",
+      "description": "Created and maintain an open-source React component library that has gained over 500 stars and is used by developers worldwide."
+    }
+  ],
+  "social": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com",
+      "icon": "FaGithub"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com",
+      "icon": "FaLinkedin"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com",
+      "icon": "FaTwitter"
+    },
+    {
+      "platform": "Dev.to",
+      "url": "https://dev.to",
+      "icon": "FaDev"
+    }
+  ]
+}
